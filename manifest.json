@@ -1,0 +1,14 @@
+{
+  "name": "Chromium CodeSearch",
+  "description": "Searches the selected text in Chromium CodeSearch",
+  "version": "0.1",
+  "icons": {
+    "16": "chromium.16.png",
+    "48": "chromium.48.png",
+    "128": "chromium.128.png"  },
+  "permissions": ["contextMenus"],
+  "background": {
+    "scripts": ["codesearch.js"]
+  },
+  "manifest_version": 2
+}
