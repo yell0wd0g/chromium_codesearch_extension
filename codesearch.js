@@ -1,5 +1,5 @@
-// CC license
-// mcasas@chromium.org
+// mcasas@chromium.org or miguelecasassanchez@gmail.com
+// Free to use and redistribute, with no warranties etc, retaining these lines.
 
 function onRequest(info, tab) {
   var selection = info.selectionText;
