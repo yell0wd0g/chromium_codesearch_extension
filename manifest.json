@@ -1,7 +1,7 @@
 {
   "name": "Chromium CodeSearch",
   "description": "Searches the selected text in Chromium CodeSearch",
-  "version": "0.1",
+  "version": "0.3",
   "icons": {
     "16": "chromium.16.png",
     "48": "chromium.48.png",
