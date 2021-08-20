@@ -5,7 +5,7 @@
   "icons": {
     "16": "chromium.16.png",
     "48": "chromium.48.png",
-    "128": "chromium.128.png"  },
+    "128": "chromium.128.png"  }, 
   "permissions": ["contextMenus"],
   "background": {
     "scripts": ["codesearch.js"]
