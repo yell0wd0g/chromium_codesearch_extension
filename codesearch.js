@@ -5,7 +5,7 @@ function onRequest(info, tab) {
   var selection = info.selectionText;
   chrome.tabs.create ({url:
       "https://code.google.com/p/chromium/codesearch#search/&sq=package:chromium&type=cs&q="
-      + selection});
+      + selection}); 
 };
 
 chrome.contextMenus.create({title:"Chromium CodeSearch '%s'",
